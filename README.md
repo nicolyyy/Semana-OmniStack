@@ -1,1 +1,1 @@
-Projeto front-end desenvolvido em React durante a Semana OmniStack
+Projeto desenvolvido em React e Node.js durante a Semana OmniStack
