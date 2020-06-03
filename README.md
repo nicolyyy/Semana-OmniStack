@@ -1,6 +1,6 @@
 <img src="./front-end/src/assets/logo.svg" width="35%" align="center"/> 
                                                                                                                          
->Este projeto foi desenvolvido durante a Semana Omnistack <strong style="color:#E02343"> 11.0</strong> :rocket:
+Este projeto foi desenvolvido durante a Semana Omnistack <strong style="color:#E02343"> 11.0</strong> :rocket:
 
 ## :rocket: Tecnologias
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
