@@ -1,19 +1,17 @@
-# Be the Hero <img src="./front-end/src/assets/logo.svg" width="100" >
-  
->Este projeto foi desenvolvido durante a Semana Omnistack <strong style="color:#E02343">11.0</strong> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width="25" height="20">
-<br>
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width="35" height="30"/>  Tecnologias
+
+ <img src="./front-end/src/assets/logo.svg"  width="25%"/> 
+
+Este projeto foi desenvolvido durante a Semana Omnistack <strong style="color:#E02343"> 11.0</strong> :rocket:
+
+## :rocket: Tecnologias
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <ul style="list-style:">
-    <strong><li>ReactJS  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="45" height="30" /></li>
-    <li>NodeJS  <img src="https://i0.wp.com/codigosimples.net/wp-content/uploads/2017/03/nodejs.png?fit=500%2C500&ssl=1" width="35" height="35"  style="padding-left:50"/></li></strong>
+    <strong><li>ReactJS </li>
+    <li>NodeJS </li></strong>
 </ul>
 
-
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="35" height="30" align="center"> Projeto
+## 💻 Projeto
 Este projeto visa construir uma rede de solidariedade entre pessoas dispostar a ajudar e ONG's que estejam necessitando desta ajuda. 
-<br>
-## <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30" height="28" style="margin-right: 10px"/>Overview
+
+## :octocat: Overview
 <img src="./front-end/src/assets/inicio.gif">
-
-
